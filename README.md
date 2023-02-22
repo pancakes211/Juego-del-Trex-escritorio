@@ -1,1 +1,1 @@
-# Juego-del-Trex-escritorio
+# ActividadDelEstudiante-Clase19
